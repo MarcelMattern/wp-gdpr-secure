@@ -1,0 +1,7 @@
+.gdpr-dsgvo-container {
+    display: block !important;
+    visibility: visible !important;
+    padding: 30px;
+    border: 1px solid #CCCCCC;
+    text-align: center;
+}
